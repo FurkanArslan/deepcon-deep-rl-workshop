@@ -1,3 +1,6 @@
+# deepcon-deep-rl-workshop
+05-06 Ekim tarihlerinde gerçekleşen DeepCon konferansındaki Derin Pekiştirmeli Öğrenme Atölyesi
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/FurkanArslan/deepcon-deep-rl-workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
